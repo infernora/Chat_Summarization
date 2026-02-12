@@ -1,0 +1,16 @@
+torch
+transformers
+datasets
+evaluate
+sentencepiece
+pandas
+accelerate
+openpyxl
+absl-py 
+rouge_score 
+nltk
+bert_score
+protobuf
+sentencepiece
+tiktoken
+tokenizersß
